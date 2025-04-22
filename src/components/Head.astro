@@ -57,6 +57,16 @@ const { title, description, image = "/nano.png" } = Astro.props;
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image, Astro.url)} />
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0RENDQPG6L"></script>
+<script>
+  (window as any).dataLayer = (window as any).dataLayer || [];
+  function gtag(...args: any[]){window.dataLayer.push(args);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0RENDQPG6L');
+</script>
+
 <ViewTransitions  />
 
 <script>
