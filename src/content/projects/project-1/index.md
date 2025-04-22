@@ -1,12 +1,11 @@
 ---
-title: "Astro Sphere"
+title: "Water Guardian"
 description: "Portfolio and blog build with astro."
 date: "Mar 18 2024"
-demoURL: "https://astro-sphere-demo.vercel.app"
-repoURL: "https://github.com/markhorn-dev/astro-sphere"
+demoURL: "https://waterguardian.id"
 ---
 
-![Astro Sphere Lighthouse Score](/astro-sphere.jpg)
+![Astro Sphere Lighthouse Score](/assets/projects/water-guardian.jpg)
 
 Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on my personal website.
 

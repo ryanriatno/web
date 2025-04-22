@@ -1,12 +1,12 @@
 ---
-title: "Astro Nano"
+title: "Salam Setara"
 description: "Minimal portfolio and blog build with astro and no frameworks."
 date: "Mar 26 2024"
-demoURL: "https://astro-nano-demo.vercel.app"
+demoURL: "https://salamsetara.com"
 repoURL: "https://github.com/markhorn-dev/astro-nano"
 ---
 
-![Astro Nano](/astro-nano.png)
+![Astro Nano](/assets/projects/salamsetara.jpg)
 
 Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog theme.
 
